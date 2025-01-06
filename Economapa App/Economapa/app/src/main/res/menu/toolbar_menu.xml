@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_search"
+        android:title="Search"
+        app:showAsAction="always"
+        app:actionViewClass="androidx.appcompat.widget.SearchView" />
+
+    <item
+        android:id="@+id/action_option1"
+        android:title="Ayuda y Soporte" />
+    <item
+        android:id="@+id/action_option2"
+        android:title="Sobre Economapa" />
+    <item
+        android:id="@+id/action_option3"
+        android:title="Términos y Privacidad" />
+</menu>

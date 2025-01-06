@@ -1,0 +1,26 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Economapa" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">#009688</item>
+        <!-- <item name="android:colorBackground">#FFFFFF</item> -->
+
+
+    </style>
+
+    <style name="Theme.Economapa" parent="Base.Theme.Economapa" />
+
+    <style name="BottomNavigationTheme" parent="">
+        <item name="itemIconTint">#000000</item>
+        <item name="itemTextColor">#00453F</item>
+        <item name="backgroundTint">#009688</item>
+
+
+
+    </style>
+
+
+
+
+
+</resources>
