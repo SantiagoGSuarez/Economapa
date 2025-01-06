@@ -35,8 +35,8 @@ dependencies {
     implementation("androidx.constraintlayout:constraintlayout:2.1.4")
     implementation ("com.squareup.retrofit2:retrofit:2.9.0")//Bibilioteca para comunicarse con la API
     implementation ("com.squareup.retrofit2:converter-gson:2.9.0")//Ayuda a la biblioteca a convertir datos directo
-    implementation ("com.squareup.picasso:picasso:2.8")
-    implementation("androidx.activity:activity:1.9.0")//Ayuda a cargar imagenes por url
+    implementation ("com.squareup.picasso:picasso:2.8")//Ayuda a cargar imagenes por url
+    implementation("androidx.activity:activity:1.9.0")
     testImplementation("junit:junit:4.13.2")
     androidTestImplementation("androidx.test.ext:junit:1.1.5")
     androidTestImplementation("androidx.test.espresso:espresso-core:3.5.1")
