@@ -74,9 +74,9 @@ Para la visualización de mapas, se utilizó <img src="https://upload.wikimedia.
    Descarga este repositorio haciendo clic en el botón **"Code"** y seleccionando **"Download ZIP"**, o clona el repositorio con el siguiente comando:  
 
    ```bash
-   git clone https://github.com/SantiagoGSuarez/SevenEBasic.git
+   git clone https://github.com/SantiagoGSuarez/Economapa.git
 
-#### 2 Iniciar <img src="Resources/xampp.ico" alt="ver analisis" width="28" style="margin: 0 auto;"> <img src="https://img.shields.io/badge/-Xampp-orange?style=for-the-badge&color=fb7a24"> (opcional):
+#### 2 Iniciar <img src="Economapa App/Economapa/app/src/main/res/drawable/xampp.ico" alt="xampp" width="28" style="margin: 0 auto;"> <img src="https://img.shields.io/badge/-Xampp-orange?style=for-the-badge&color=fb7a24"> (opcional):
 
 - Si deseas usar un servidor local, puedes abrir el panel de control de XAMPP y asegurarte de iniciar **Apache** y **MySQL**. 
 - **IMPORTANTE:** Aunque XAMPP es opcional, es necesario que la puerta **3306** de MySQL esté disponible para que la aplicación funcione correctamente.
