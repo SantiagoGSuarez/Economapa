@@ -4,6 +4,7 @@
 2. [Tecnologías Utilizadas](#tecnologías-utilizadas)
 3. [Pantallas de la Aplicación](#pantallas-de-la-aplicación)
 4. [Cómo Iniciar la Aplicación](#cómo-iniciar-la-aplicación)
+5. [Interfaz Web de Administración de Economapa](#interfaz-web-de-administración-de-economapa)
 
 # <div align="center"><img src="Economapa App/Economapa/app/src/main/res/drawable/Economapa logo.png" alt="Economapa" width="200" style="margin: 0 auto;"></div> Economapa
 Economapa es una aplicación móvil diseñada para facilitar el acceso a productos en promoción entre Rivera y Santana do Livramento, donde frecuentemente llegan turistas para realizar compras. Ideal para mostrar productos en promoción y ayudar a los usuarios a encontrar ofertas de manera eficiente. 
@@ -85,7 +86,9 @@ Para la visualización de mapas, se utilizó <img src="https://upload.wikimedia.
 
 - Extrae el repositorio descargado y abre la carpeta `API Spring Boot/Economapa API` en una IDE como IntelliJ IDEA o Eclipse.  
 - Navega hasta el archivo principal `EconomapaApplication.java`, ubicado en:
-API Spring Boot/Economapa API/src/main/java/com/example/Economapa/EconomapaApplication.java
+
+`API Spring Boot/Economapa API/src/main/java/com/example/Economapa/EconomapaApplication.java`
+
 - Ejecuta este archivo `EconomapaApplication.java` para iniciar la API Spring Boot.
 
 #### 4. Ejecutar la aplicación móvil:
