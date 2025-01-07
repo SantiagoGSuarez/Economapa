@@ -87,7 +87,7 @@ Para la visualización de mapas, se utilizó <img src="https://upload.wikimedia.
 - Extrae el repositorio descargado y abre la carpeta `API Spring Boot/Economapa API` en una IDE como IntelliJ IDEA o Eclipse.  
 - Navega hasta el archivo principal `EconomapaApplication.java`, ubicado en:
 
-`API Spring Boot/Economapa API/src/main/java/com/example/Economapa/EconomapaApplication.java`
+  `API Spring Boot/Economapa API/src/main/java/com/example/Economapa/EconomapaApplication.java`
 
 - Ejecuta este archivo `EconomapaApplication.java` para iniciar la API Spring Boot.
 
