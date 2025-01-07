@@ -1,6 +1,8 @@
 # Índice
 
 1. [Economapa](#economapa)
+2. [Tecnologías Utilizadas](#tecnologías-utilizadas)
+3. [Pantallas de la Aplicación](#pantallas-de-la-aplicación)
 
 # <div align="center"><img src="Economapa App/Economapa/app/src/main/res/drawable/Economapa logo.png" alt="Economapa" width="200" style="margin: 0 auto;"></div> Economapa
 Economapa es una aplicación móvil diseñada para facilitar el acceso a productos en promoción entre Rivera y Santana do Livramento, donde frecuentemente llegan turistas para realizar compras. Ideal para mostrar productos en promoción y ayudar a los usuarios a encontrar ofertas de manera eficiente. 
