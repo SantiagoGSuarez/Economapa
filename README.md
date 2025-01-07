@@ -3,6 +3,7 @@
 1. [Economapa](#economapa)
 2. [Tecnologías Utilizadas](#tecnologías-utilizadas)
 3. [Pantallas de la Aplicación](#pantallas-de-la-aplicación)
+4. [Cómo Iniciar la Aplicación](#cómo-iniciar-la-aplicación)
 
 # <div align="center"><img src="Economapa App/Economapa/app/src/main/res/drawable/Economapa logo.png" alt="Economapa" width="200" style="margin: 0 auto;"></div> Economapa
 Economapa es una aplicación móvil diseñada para facilitar el acceso a productos en promoción entre Rivera y Santana do Livramento, donde frecuentemente llegan turistas para realizar compras. Ideal para mostrar productos en promoción y ayudar a los usuarios a encontrar ofertas de manera eficiente. 
@@ -62,3 +63,56 @@ Para la visualización de mapas, se utilizó <img src="https://upload.wikimedia.
 </div>
 
 - En esta pantalla, se muestra un mapa con la ubicación actual del usuario, así como las ubicaciones de las empresas. Al hacer clic sobre el punto que representa una empresa, el usuario podrá ver información relevante, como el nombre de la empresa y la distancia en kilómetros desde su ubicación actual.
+
+## Cómo Iniciar la Aplicación
+
+### Pasos para iniciar la aplicación:
+
+#### 1. Descargar el repositorio:
+
+1. **Descargar el repositorio:**  
+   Descarga este repositorio haciendo clic en el botón **"Code"** y seleccionando **"Download ZIP"**, o clona el repositorio con el siguiente comando:  
+
+   ```bash
+   git clone https://github.com/SantiagoGSuarez/SevenEBasic.git
+
+#### 2 Iniciar <img src="Resources/xampp.ico" alt="ver analisis" width="28" style="margin: 0 auto;"> <img src="https://img.shields.io/badge/-Xampp-orange?style=for-the-badge&color=fb7a24"> (opcional):
+
+- Si deseas usar un servidor local, puedes abrir el panel de control de XAMPP y asegurarte de iniciar **Apache** y **MySQL**. 
+- **IMPORTANTE:** Aunque XAMPP es opcional, es necesario que la puerta **3306** de MySQL esté disponible para que la aplicación funcione correctamente.
+
+#### 3. Ejecutar la API Spring Boot:
+
+- Extrae el repositorio descargado y abre la carpeta `API Spring Boot/Economapa API` en una IDE como IntelliJ IDEA o Eclipse.  
+- Navega hasta el archivo principal `EconomapaApplication.java`, ubicado en:
+API Spring Boot/Economapa API/src/main/java/com/example/Economapa/EconomapaApplication.java
+- Ejecuta este archivo `EconomapaApplication.java` para iniciar la API Spring Boot.
+
+#### 4. Ejecutar la aplicación móvil:
+
+- Abre la carpeta `Economapa App` en Android Studio.  
+- Una vez cargado el proyecto, haz clic en **Run** para compilar y ejecutar la aplicación en un emulador o dispositivo físico conectado.
+
+#### Nota importante:
+
+- La base de datos requerida para la aplicación se creará automáticamente la primera vez que ejecutes la API.
+
+
+## Interfaz Web de Administración de Economapa
+La **Interfaz Web de Administración** de Economapa es una plataforma diseñada para que las empresas puedan gestionar sus productos en promoción. Desde esta web, las empresas pueden registrarse, iniciar sesión y administrar la información que será visible para los usuarios en la aplicación móvil.
+
+### Funcionalidades principales:
+
+1. **Registro de Empresas:**  
+   Permite a las empresas crear una cuenta para acceder a la plataforma.
+
+2. **Inicio de Sesión:**  
+   Acceso seguro al panel administrativo mediante usuario y contraseña.
+
+3. **Gestión de Productos:**  
+   - Añadir nuevos productos en promoción.  
+   - Editar información de productos existentes.  
+   - Eliminar productos.
+
+### Cómo acceder a la Interfaz Web:
+🔧*EN DESARROLLO*🔧
